@@ -1,3 +1,1 @@
-Tic Tac Toe Command Line Game 
-Made as challenge project
-Made With Python
+A Command Line Tic Tac Toe Game. Made with Python as a Challenge Project. 
